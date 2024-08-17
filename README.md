@@ -10,7 +10,7 @@ Creation of Buying Table:
 ### Procedure:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Buying Table.
-
+   
 ```
 @relation buying
 @attribute age {L20,20-40,G40}
